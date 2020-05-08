@@ -2,7 +2,7 @@
 """Django's command-line utility for administrative tasks."""
 import os
 import sys
-sys.setrecursionlimit(10000)
+#sys.setrecursionlimit(10000)
 
 
 def main():
